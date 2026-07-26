@@ -1,23 +1,43 @@
 # Applied-Cryptography-Study-Guide
 Weekly Study Guides on popular cryptographic algorithms
 
-Each guide contains
+Week X
 
-* Learning objectives
+📖 Overview
 
-* Beginner videos
+🎯 Learning Objectives
 
-* AI tutor prompts
+🧠 Why This Matters
 
-* Worked examples
+📚 Prerequisites
 
-* Python exercises
+📺 Watch First
 
-* Practice problems
+📖 Read
 
-* Review questions
+🛠 Interactive Learning
 
----
+🤖 AI Tutor Prompts
+
+✍ Worked Example
+
+💻 Python Exercise
+
+🧩 Practice Problems
+
+🛡 Think Like an Attacker
+
+⚠ Common Mistakes
+
+🌎 Real World Connections
+
+🎤 Interview Questions
+
+✅ Self Check
+
+📄 One Page Summary
+
+🚀 Looking Ahead
 
 ## Weekly Guides
 
