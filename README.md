@@ -9,13 +9,11 @@ Week X
 
 🧠 Why This Matters
 
-📚 Prerequisites
+📚 Vocabulary
 
-📺 Watch First
+📺 Learning Path
 
-📖 Read
-
-🛠 Interactive Learning
+📖 Learn
 
 🤖 AI Tutor Prompts
 
@@ -31,13 +29,7 @@ Week X
 
 🌎 Real World Connections
 
-🎤 Interview Questions
-
 ✅ Self Check
-
-📄 One Page Summary
-
-🚀 Looking Ahead
 
 ## Weekly Guides
 
